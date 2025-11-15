@@ -63,7 +63,6 @@ nav.scrolled #about-page-nav-text a {
 }
 
 nav {
-    background-color: white;
     position: fixed;
     width: 100%;
     overflow: hidden;
